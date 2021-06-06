@@ -1,0 +1,5 @@
+1. Linus Torvalds após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper. Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux.
+
+2. O Github foi adquirido pela Microsoft em 2018 por US$7,5 bilhões com o intuito de se aproximar dos desenvolvedores open source.
+
+3. Sim, pelo site github.com ou pelo GitGUI
