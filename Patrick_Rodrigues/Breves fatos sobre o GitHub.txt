@@ -1,1 +1,2 @@
-
+Atualmente, uma das ferramentas indispensáveis para o controle de etapas de projetos de desenvolvimento de softwares é o GitHub. Segundo dados encontrados na web, o GitHub foi desenvolvido em 2005 por Chris Wanstrath, J. Hyett, Tom Presto-Werner e Scott Chacon e se destacou por proporcionar suporte ao desenvolvimento não linear, podendo ser colaborativo independentemente de onde estiverem os desenvolvedores envolvidos e em qual etapa estiverem por se tratar de um servidor remoto central localizado na núvem acessivel pela própria web utilizando tanto o terminal do Git como o próprio site https://github.com.
+De olho no potencial do GitHub, a Microsoft comprou em 2018, ampliando ainda mais a capacidade de processamento e armazenamento.
