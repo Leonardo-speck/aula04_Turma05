@@ -1,0 +1,5 @@
+1 - O GIT foi desenvolvido por Linus Torvalds, o famoso criador do kernel do Linux. Foi escrito em 2005. É o sistema de versionamento de código mamis utilizado no mundo. O GIT foi criado para facilitar a manutenção e versionamento dos códigos de programas. Hoje ele possui ampla utilização por programadores do mundo todo e várias empresas usam-no como software padrão de versionamento de código.
+
+2 - Hoje, o GitHub é da Microsoft. A MS comprou a plataforma em 2018, pois de acordo com Satya Nadella, o objetivo da empresa e do github de distribuição de código aberto estava alinhado. 
+
+3 - O GitHub possui versões GUI para utilização.
